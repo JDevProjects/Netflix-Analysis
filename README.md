@@ -8,7 +8,7 @@ Netflix streaming content analysis project: built an ETL pipeline, loaded, clean
 - Analyzed a Netflix dataset (2008–2021) from Kaggle to extract actionable insights on content additions by year, popular genres, top directors, and country of production. The goal is to support content strategy, marketing, and subscriber engagement decisions by highlighting trends in movies and TV shows added over time.
 
 **Netflix Streaming Content Dashboard:**
- ![Product & Sales Trends Dashboard](./Dashboard Screenshot- Netflix.png)
+ ![Product & Sales Trends Dashboard](Dashboard-Screenshot-Netflix.png)
  
 **Dashboard Overview Snapshot:**
 - Select Year Slicer: Filter all visuals dynamically by year.
