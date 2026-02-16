@@ -21,7 +21,7 @@ Netflix streaming content analysis project: built an ETL pipeline, loaded, clean
 **Key Insights for Stakeholders:**
 1.	Content Growth Over Time
 - Dramatic increase in titles added starting around 2015, with movies generally outpacing TV shows.
-- Growth peaks around 2018–2019, followed by a noticeable decline in 2020 due to COVID-19 production delays.
+- Growth peaks around 2018–2019, followed by a noticeable decline in 2020 possibly due to COVID-19 production delays.
   
 2.	Genre Popularity
 - International Movies, Dramas, Comedies, and International TV Shows were the most added titles by genre.
