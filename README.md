@@ -9,7 +9,7 @@ Netflix streaming content analysis project: built an ETL pipeline, loaded, clean
 
 **Netflix Streaming Content Dashboard:**
 
- ![Product & Sales Trends Dashboard](Dashboard-Screenshot-Netflix.png)
+ ![Netflix Dashboard](Dashboard-Screenshot-Netflix.png)
  
 **Dashboard Overview Snapshot:**
 - Select Year Slicer: Filter all visuals dynamically by year.
