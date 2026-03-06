@@ -1,9 +1,6 @@
 # Netflix-Analysis
 Netflix streaming content analysis project: built an ETL pipeline, loaded, cleaned, analyzed, and visualized Netflix content dataset using Pandas, SQL Server, and Power BI.
 
-**Netflix Streaming Content Analysis:**
-- Netflix streaming content analysis project: built an ETL pipeline, loaded, cleaned, analyzed, and visualized Netflix content dataset using Pandas, SQL Server, and Power BI.
-
 **Project Purpose / Objective:**
 - Analyzed a Netflix dataset (2008–2021) from Kaggle to extract actionable insights on content additions by year, popular genres, top directors, and country of production. The goal is to support content strategy, marketing, and subscriber engagement decisions by highlighting trends in movies and TV shows added over time.
 
